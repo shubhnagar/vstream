@@ -1,2 +1,1 @@
-## video-streaming-platform
-
+## vstream-api (Video Streaming Platform Backend Repository)
