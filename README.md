@@ -1,3 +1,3 @@
 ## vstream-api (Video Streaming Platform Backend Repository)
 
-git clone: `git clone <git_clone_url_from_step_2>`
+git clone: `git clone https://github.com/Suraj0837/vstream-api.git
